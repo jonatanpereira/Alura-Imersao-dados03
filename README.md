@@ -1,19 +1,15 @@
 
-# Desafio Final Imersão Dados
+# Imersão Dados 03 - Alura
 
 **Olá Cientistas!**
 
-Neste repositório você vai encontrar todas as informações necessárias para o desenvolvimento do projeto final da Imersão Dados.
+Estou realizando o projeto aqui no google colaboratory de Data Science da Imersão de Dados da Alura.
 
-O nosso objetivo é que você construa um projeto de Data Science com análise exploratória e desenvolva um modelo de machine learning para auxiliar na descoberta de novos medicamentos, aplicando todo o conhecimento que você irá adquirir na imersão e criando um projeto incrível no github, deixando-o com a sua cara. 
+ssa análise tem como objetivo descrever os dados presente nesse dataset. Inciando com análises que possam entender os tipos de dados presente, se há necessidade de tratamento para análises mais profundas futuramente, assim como, realizar uma breve descrição estatística .
 
-Se você não sabe por onde iniciar, não se preocupe! Use este documento como um guia para a construção da sua pesquisa e mergulhe fundo!
+Esse projeto faz parta da Semana de Imersão em Data Science realizada pela Alura Imersão de Dados.
 
-Sabemos que esse pode ser o seu primeiro projeto de Data Science. Queremos que você tenha um portfólio com um projeto mais aplicável e mais próximo do cotidiano de cientistas de dados. E, para isso, temos alguns lembretes para que você reflita quando for trabalhar. Então, mão na massa!
-
-É importante que você olhe para o seu projeto como um todo. Desde a concepção ao entendimento do negócio, a análise de dados e ao levantamento de hipóteses. Ou seja, ao chegar na solução aplicando machine learning, se atente para que seu projeto tenha começo, meio e fim. Lembrando que ter um fim não quer dizer que os resultados precisam ser perfeitos. O nosso problema é complexo e se seus resultados não forem os melhores do mundo, não há problemas. Dentro das limitações de tempo e de conceitos aprendidos na imersão, o mais relevante é ter entendido os processos relacionados ao desenvolvimento de uma solução de Data Science, desde a análise até o desenvolvimento dos modelos de Machine Learning. 
-
-Os critérios que utilizaremos para analisar os projetos foram divididos em duas etapas de observação, sendo elas:
+Esse projeto foi inspirado em um desafio do Laboratory innovation science at Harvard disponibilizando os dados em uma competição no Kaggle
 
 
 ## Critérios de avaliação técnicos
@@ -135,33 +131,6 @@ Alguns projetos incrível dos nosso alunos para você se inspirar:
 - [Conrado Bittencourt](https://colab.research.google.com/drive/1QCRMnF-9cFRuOO_PrWpzj-UAclQuIomB?usp=sharing)
 
 - [Matheus Leite Llorente](https://colab.research.google.com/drive/1eca1wG-pkGT0IiPv4-vcpjur3tJjj-6e?usp=sharing)
-
-
-## Premiação
-
-Serão 10 bolsas de estudos integrais para o **Bootcamp de Data Science Aplicada Alura** , que começa dia **18 de maio de 2021**. O prêmio não poderá ser dividido ou revertido em dinheiro.
-
-### Quem pode participar?
-
-A premiação é exclusiva para participantes inscritos na #ImersãoDados 3° Edição. Participantes do Bootcamp de DataScience aplicada (Primeira edição) e premiados com bolsas nas imersões dados anteriores, não serão elegíveis a premiação. Mas estão convidados a enviar seus projetos para serem analisados.  
-
-### Prazo
-
-A submissão final deve ser feita até o dia 09/05/2021 (Domingo) 23h59 horário de Brasília.
-
-### Sobre o envio do Desafio
-
-Você deve submeter o link do seu repositório [neste Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfcuvhSoXlbggZeRG3Y28Vb9xwCs3MDNFLjSh3WyS96slRsZA/viewform?usp=sf_link).  O repositório de submissão precisa estar público para que seja possível analisar seu projeto.
-
-
-### Regras para envio do desafio
-
-- É necessário informar o mesmo e-mail que foi utilizado no cadastrado da #imersãoDados.
-- O resultado será divulgado dia 10/05/2021 na Live de encerramento da #imersãoDados.
-- O repositório deve conter os topics #alura e #imersaoDados.
-- Não altere o repositório, após o horário de encerramento do desafio.
-- Qualquer alteração após esse horário será desconsiderada na avaliação.
-- Seja gentil :). Não somos especializados em competições e estamos fazendo esse desafio para te motivar e incentivar a comunidade de Data Science, espero que goste e se divirta.
 
 
 
